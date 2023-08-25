@@ -16,3 +16,4 @@ https://github.com/NANA-2016/LINUX-PRACTICE-PROJECTS/issues/12#issue-1866273699
 https://github.com/NANA-2016/LINUX-PRACTICE-PROJECTS/issues/13#issue-1866304539
 ![image](https://github.com/NANA-2016/LINUX-PRACTICE-PROJECTS/assets/141503408/b6b09ac3-4bba-44ce-b220-02cee214654d)
 https://github.com/NANA-2016/LINUX-PRACTICE-PROJECTS/issues/16#issue-1866987546
+https://github.com/NANA-2016/LINUX-PRACTICE-PROJECTS/issues/17#issue-1867071464
