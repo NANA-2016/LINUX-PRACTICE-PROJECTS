@@ -28,3 +28,4 @@ https://github.com/NANA-2016/LINUX-PRACTICE-PROJECTS/issues/25#issue-1867774930
 https://github.com/NANA-2016/LINUX-PRACTICE-PROJECTS/issues/26#issue-1867783199
 https://github.com/NANA-2016/LINUX-PRACTICE-PROJECTS/issues/27#issue-1867807312
 https://github.com/NANA-2016/LINUX-PRACTICE-PROJECTS/issues/28#issue-1867808824
+https://github.com/NANA-2016/LINUX-PRACTICE-PROJECTS/issues/29#issue-1867813324
